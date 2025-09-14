@@ -1,1 +1,1 @@
-Open source
+* 开源 
